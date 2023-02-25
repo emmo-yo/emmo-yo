@@ -1,7 +1,7 @@
 ### Hi, I am @emmo-yo,  
 
 # Currently learning:
-- 🌱 I'm learning and practicing Python, JS, React etc. 
+- 🌱 I'm learning and practicing Python, JS, React, C++ etc. 
 
 # Skills:
 [![My Skills](https://skillicons.dev/icons?i=react,js,html,css,py)](https://skillicons.dev)
