@@ -15,5 +15,3 @@
 # Portfolio:
 - A work in progress
 
-# Connect with me here:
-https://www.linkedin.com/in/emma-olsson-52482b114
